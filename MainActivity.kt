@@ -1,3 +1,4 @@
+//Nome dos integrantes: Laura Christine Dromlewicz de Almeida, Nicolas Gonçalves de Souza, Carlos Eduardo G Faria, Weslley da Silva Severino.
 package br.edu.up.trabalho1_desenvolvimento_mobile
 
 import android.os.Bundle
